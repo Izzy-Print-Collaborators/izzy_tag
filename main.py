@@ -29,8 +29,8 @@ MODELOS = {
     'IN': 'INFANTIL',
     'MG': 'M CARECA',
     'MC': 'M CANGURU',
-    'RO': 'R OVERSIZED',
-    'RB': 'R BOXY'
+    'RO': 'REGATA OVER',
+    'RB': 'REGATA BOXY'
 }
 
 CORES = {
