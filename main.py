@@ -28,7 +28,9 @@ MODELOS = {
     'ES': 'BABYLOOK',
     'IN': 'INFANTIL',
     'MG': 'M CARECA',
-    'MC': 'M CANGURU'
+    'MC': 'M CANGURU',
+    'RO': 'R OVERSIZED',
+    'RB': 'R BOXY'
 }
 
 CORES = {
